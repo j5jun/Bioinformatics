@@ -1,0 +1,13 @@
+{
+	"n_targets": 113193,
+	"n_bootstraps": 100,
+	"n_processed": 3932838,
+	"n_pseudoaligned": 3479360,
+	"n_unique": 901374,
+	"p_pseudoaligned": 88.5,
+	"p_unique": 22.9,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Thu Apr 26 10:34:27 2018",
+	"call": "kallisto quant -t 3 -b 100 -o HL_Rep1 --gtf /home/linux/ieng6/cs185s/public/week4/gencode.vM11.primary_assembly.annotation.gtf -i /home/linux/ieng6/cs185s/public/week4/mm10_kallisto /home/linux/ieng6/cs185s/public/week4/HL_Rep1_chr5_1.fq.gz /home/linux/ieng6/cs185s/public/week4/HL_Rep1_chr5_2.fq.gz"
+}
